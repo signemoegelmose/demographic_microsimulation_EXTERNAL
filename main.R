@@ -3,7 +3,7 @@
   ##     LOAD FUNCTIONS          ##
   #################################
   
-  source('R/load_packages_vsc.R')
+  source('R/load_packages.R')
   source('R/get_model_parameters.R')
   source('R/fertility.R')
   source('R/functions.R') 
